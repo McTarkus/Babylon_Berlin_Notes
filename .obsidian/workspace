@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "c59618646656500e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c94c945af67c9b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e684b74fd095965c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c037ea1e1e01542b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4b9002d88fe3e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59e9d4a2b07a858d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ced6e8d79d6fc1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f3df61a3a39f153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4030963f7b0872b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e2c94c945af67c9b",
+  "lastOpenFiles": [
+    "Player Characters/Hermann.md",
+    "Player Characters/Handwaffe.md",
+    "Player Characters/Claudia.md",
+    "NPCs/Prince Gabriel Constantinovich.md",
+    "NPCs/Inspector Krieg.md",
+    "NPCs/Francisca.md",
+    "Session Notes/Session 1.md",
+    "NPCs/Carl Grossman.md",
+    "Session Notes/Session 2.md",
+    "NPCs/Anastasia.md"
+  ]
+}

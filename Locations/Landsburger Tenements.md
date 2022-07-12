@@ -1,0 +1,1 @@
+A decent apartment building, if you live up front. Values continue to drop however.
